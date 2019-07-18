@@ -1,10 +1,10 @@
-<mxfile etag="qaTNgT2inAJ-E1OiZuP5" compressed="false" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" host="test.draw.io" modified="2019-07-18T09:39:43.989Z" version="@DRAWIO-VERSION@" type="github">
+<mxfile etag="kR2v27p3kUoJdGfSBbaE" compressed="false" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" host="test.draw.io" modified="2019-07-18T09:50:48.629Z" version="@DRAWIO-VERSION@" type="github">
   <diagram name="Seite-1" id="jWWhzvVufe2sjecksbQ5">
-    <mxGraphModel dx="1426" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ggKdL4AqAcnvnMH1Yn7x-0"/>
         <mxCell id="ggKdL4AqAcnvnMH1Yn7x-1" parent="ggKdL4AqAcnvnMH1Yn7x-0"/>
-        <mxCell id="9ahEbwi2EEqdL04R1O-I-0" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;test 123&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="ggKdL4AqAcnvnMH1Yn7x-1" vertex="1">
+        <mxCell id="9ahEbwi2EEqdL04R1O-I-0" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;This is a new very long label.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="ggKdL4AqAcnvnMH1Yn7x-1" vertex="1">
           <mxGeometry x="240" y="80" width="160" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="k1MoRHFRysqfOOPxAv3R-1" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;with word wrapping&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=m+ 1c;fontSize=14;align=center;rotation=0;" parent="ggKdL4AqAcnvnMH1Yn7x-1" vertex="1">
@@ -22,7 +22,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Seite-4" id="FvGQdhrVWGv52pfzEdbo">
-    <mxGraphModel dx="1426" dy="394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tsYUDIgPBKcRIa4gTPtW-0"/>
         <mxCell id="tsYUDIgPBKcRIa4gTPtW-1" parent="tsYUDIgPBKcRIa4gTPtW-0"/>
@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Seite-2" id="NWRX4Faj0Ng35x0qZ82Z">
-    <mxGraphModel dx="1426" dy="394" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="503" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Zi7y3QMLo1rrJkPVE3jm-0"/>
         <mxCell id="Zi7y3QMLo1rrJkPVE3jm-1" parent="Zi7y3QMLo1rrJkPVE3jm-0"/>
