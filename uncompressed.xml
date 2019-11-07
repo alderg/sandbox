@@ -1,6 +1,6 @@
-<mxfile etag="dRaa2Fl6fkfiNmNhuIHP" compressed="false" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" host="test.draw.io" modified="2019-07-20T07:02:56.036Z" version="@DRAWIO-VERSION@" type="github">
+<mxfile etag="vN9_yJNfBAdkwEvhC7jS" compressed="false" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" host="test.draw.io" modified="2019-11-07T07:25:43.831Z" version="@DRAWIO-VERSION@" type="github" pages="3">
   <diagram name="Seite-1" id="jWWhzvVufe2sjecksbQ5">
-    <mxGraphModel dx="1426" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ggKdL4AqAcnvnMH1Yn7x-0"/>
         <mxCell id="ggKdL4AqAcnvnMH1Yn7x-1" parent="ggKdL4AqAcnvnMH1Yn7x-0"/>
@@ -22,7 +22,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Seite-4" id="FvGQdhrVWGv52pfzEdbo">
-    <mxGraphModel dx="1426" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tsYUDIgPBKcRIa4gTPtW-0"/>
         <mxCell id="tsYUDIgPBKcRIa4gTPtW-1" parent="tsYUDIgPBKcRIa4gTPtW-0"/>
@@ -33,7 +33,7 @@
         </UserObject>
         <UserObject label="Test" tags="blue circle" id="WeQnOve9hgximtVvcyDj-1">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=M+ 1c;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
-            <mxGeometry x="337" y="74" width="120" height="80" as="geometry"/>
+            <mxGeometry x="350" y="87" width="94" height="54" as="geometry"/>
           </mxCell>
         </UserObject>
         <UserObject label="This is an label editing test" tags="green rect" id="WeQnOve9hgximtVvcyDj-2">
@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Seite-2" id="NWRX4Faj0Ng35x0qZ82Z">
-    <mxGraphModel dx="1426" dy="503" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="650" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Zi7y3QMLo1rrJkPVE3jm-0"/>
         <mxCell id="Zi7y3QMLo1rrJkPVE3jm-1" parent="Zi7y3QMLo1rrJkPVE3jm-0"/>
