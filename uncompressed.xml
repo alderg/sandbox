@@ -1,4 +1,4 @@
-<mxfile etag="Zs4v9OfI4b3zLkAB6kwQ" compressed="false" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" host="test.draw.io" modified="2019-11-07T08:28:52.355Z" version="@DRAWIO-VERSION@" type="github" pages="3">
+<mxfile etag="KWgtkaAaJbSmryCuJ9YV" compressed="false" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" host="test.draw.io" modified="2019-11-07T08:29:23.326Z" version="@DRAWIO-VERSION@" type="github" pages="3">
   <diagram name="Seite-1" id="jWWhzvVufe2sjecksbQ5">
     <mxGraphModel dx="1209" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,42 +27,42 @@
         <mxCell id="tsYUDIgPBKcRIa4gTPtW-0"/>
         <mxCell id="tsYUDIgPBKcRIa4gTPtW-1" parent="tsYUDIgPBKcRIa4gTPtW-0"/>
         <UserObject label="This is a background labelcolor test&lt;br&gt;" tags="blue rect" id="WeQnOve9hgximtVvcyDj-0">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=&quot;Test&quot;;labelBackgroundColor=#FFFFFF;horizontal=0;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=&quot;Test&quot;;labelBackgroundColor=#FFFFFF;horizontal=0;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
             <mxGeometry x="158" y="68" width="163" height="78" as="geometry"/>
           </mxCell>
         </UserObject>
         <UserObject label="Test" tags="blue circle" id="WeQnOve9hgximtVvcyDj-1">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=M+ 1c;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=M+ 1c;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
             <mxGeometry x="350" y="87" width="94" height="54" as="geometry"/>
           </mxCell>
         </UserObject>
         <UserObject label="This is an label editing test" tags="green rect" id="WeQnOve9hgximtVvcyDj-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Courier New;rotation=35;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;rotation=35;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
             <mxGeometry x="133" y="247" width="120" height="60" as="geometry"/>
           </mxCell>
         </UserObject>
         <UserObject label="Test" tags="circle green" id="WeQnOve9hgximtVvcyDj-3">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=&lt;tag&gt;&quot;test&quot;&#39;&#39;&lt;img src=&quot;&quot;&gt;;fillOpacity=100;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=&lt;tag&gt;&quot;test&quot;&#39;&#39;&lt;img src=&quot;&quot;&gt;;fillOpacity=100;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
             <mxGeometry x="337" y="237" width="118" height="78" as="geometry"/>
           </mxCell>
         </UserObject>
         <UserObject label="Test" tags="blue rect" id="cY_KJO3LxPQ5wC6UugNS-0">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=&quot;Test&quot;;fillOpacity=100;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=&quot;Test&quot;;fillOpacity=100;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
             <mxGeometry x="133" y="382" width="120" height="60" as="geometry"/>
           </mxCell>
         </UserObject>
         <UserObject label="Word Add In Test" link="https://jgraph-my.sharepoint.com/personal/gaudenz_jgraph_onmicrosoft_com/Documents/draw.io%20add-in%20test.docx?web=1" id="_pXPEiFH7ind-nD9hopS-0">
-          <mxCell style="text;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=4;fontSize=15;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
+          <mxCell style="text;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=4;fontSize=15;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
             <mxGeometry x="366" y="370" width="157" height="42" as="geometry"/>
           </mxCell>
         </UserObject>
-        <mxCell id="mXCnaA60JJ555JlMjSG4-0" value="here is more text to be used in this label" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;direction=west;fontSize=17;labelBackgroundColor=#808080;fillColor=#f8cecc;strokeColor=#b85450;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
+        <mxCell id="mXCnaA60JJ555JlMjSG4-0" value="here is more text to be used in this label" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;direction=west;fontSize=17;labelBackgroundColor=#808080;fillColor=#d5e8d4;strokeColor=#82b366;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
           <mxGeometry x="529" y="76" width="120" height="97" as="geometry"/>
         </mxCell>
-        <mxCell id="8Q5dJuS0jz6X5Tn8b9Rs-0" value="this is a test" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=west;fontSize=17;labelBackgroundColor=#808080;horizontal=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
+        <mxCell id="8Q5dJuS0jz6X5Tn8b9Rs-0" value="this is a test" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=west;fontSize=17;labelBackgroundColor=#808080;horizontal=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
           <mxGeometry x="523" y="237" width="89" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="TqQls4yWhlnnWgG_S_SS-1" value="here is more text to be used in this label" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;direction=west;fontSize=17;labelBackgroundColor=none;fillColor=#f8cecc;arcSize=14;strokeColor=#b85450;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
+        <mxCell id="TqQls4yWhlnnWgG_S_SS-1" value="here is more text to be used in this label" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;direction=west;fontSize=17;labelBackgroundColor=none;fillColor=#d5e8d4;arcSize=14;strokeColor=#82b366;" parent="tsYUDIgPBKcRIa4gTPtW-1" vertex="1">
           <mxGeometry x="505.5" y="398" width="167" height="54" as="geometry"/>
         </mxCell>
         <mxCell id="mXCnaA60JJ555JlMjSG4-1" value="test" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="tsYUDIgPBKcRIa4gTPtW-1" source="WeQnOve9hgximtVvcyDj-3" target="mXCnaA60JJ555JlMjSG4-0" edge="1">
