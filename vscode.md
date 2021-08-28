@@ -1,6 +1,6 @@
 ## Test
 
-Test case for vs code plugin.
+Test case for VSCode plugin.
 
 PNG file:
 
