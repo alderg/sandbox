@@ -1,4 +1,4 @@
-# Test
+## Test
 
 Test case for VSCode plugin.
 
