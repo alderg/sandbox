@@ -9,3 +9,7 @@ PNG file:
 SVG file:
 
 ![my diagram](vscode.drawio.svg)
+
+SVG file with dark mode support:
+
+![my diagram](color-scheme.svg)
