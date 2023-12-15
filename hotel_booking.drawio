@@ -1,4 +1,4 @@
-<mxfile host="test.draw.io" modified="2023-12-15T13:42:53.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DGdeqZ9qLrXoLR9ijeto" version="@DRAWIO-VERSION@" type="github">
+<mxfile host="test.draw.io" modified="2023-12-15T13:43:12.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-MF5kYnlq5BM_msC-iLC" version="@DRAWIO-VERSION@" type="github">
   <diagram name="Page-1" id="RRSpOChAPI_KbZhBSmLg">
     <mxGraphModel dx="3700" dy="2907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -278,7 +278,7 @@
           <mxGeometry x="-1746.5854545454558" y="-1715.09090909091" width="772" height="472" as="geometry" />
         </mxCell>
         <UserObject label="https://newsletter.pragmaticengineer.com/p/designing-a-payment-system" link="https://newsletter.pragmaticengineer.com/p/designing-a-payment-system" id="EIAWiYakASDLayadyy67-277">
-          <mxCell style="text;whiteSpace=wrap;fontSize=11;fontFamily=Helvetica;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxCell style="text;whiteSpace=wrap;fontSize=11;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="-1632.04" y="-2147.9981818181823" width="378" height="35" as="geometry" />
           </mxCell>
         </UserObject>
