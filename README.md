@@ -1,3 +1,5 @@
 [Page has moved](https://github.com/jgraph/drawio-github)
 
-![Test](http://alderg.github.io/sandbox/i18n.drawio.svg)
+![Save](http://alderg.github.io/sandbox/i18n.drawio.svg)
+
+![Export](http://alderg.github.io/sandbox/i18n-export.drawio.svg)
